@@ -93,6 +93,7 @@ Actual:Norm  |   16    | 1975
 B.Sc. Computer Science @ UWI | Exchange @ University of Richmond  
 Passionate about applied machine learning, system-level tools, and security.  
 [GitHub](https://github.com/muditjha20)
+
 ---
 
 > Built to explore the intersection of system security, unsupervised ML, and real-time monitoring.  
