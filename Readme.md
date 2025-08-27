@@ -1,4 +1,4 @@
-# Kernel Canary++ 🐧  
+# Kernel Canary++ 🔒  
 **Log-Based Anomaly Detection for System Security and Monitoring**
 
 Kernel Canary++ is a lightweight, real-time anomaly detection system designed to monitor structured system logs and flag suspicious behavior. It leverages an optimized Isolation Forest model, automated hyperparameter tuning, and a deployable REST API to detect rare events that may indicate system faults, intrusions, or unusual activity.
