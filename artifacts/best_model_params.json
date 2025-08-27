@@ -1,0 +1,5 @@
+{
+  "n_estimators": 300,
+  "contamination": 0.0555065770682117,
+  "f1_score": 0.925926
+}

@@ -1,0 +1,10 @@
+{
+  "n_estimators": {
+    "_type": "choice",
+    "_value": [100, 200, 300, 400, 500]
+  },
+  "contamination": {
+    "_type": "uniform",
+    "_value": [0.01, 0.1]
+  }
+}

@@ -1,0 +1,22 @@
+experimentName: kernel_canary_opt
+trialConcurrency: 1
+maxTrialNumber: 20
+
+searchSpace:
+  n_estimators:
+    _type: choice
+    _value: [100, 200, 300, 400, 500]
+  contamination:
+    _type: uniform
+    _value: [0.01, 0.10]
+
+trialCommand: 'C:/Users/mudit/AppData/Local/Programs/Python/Python313/python.exe src/train.py'
+trialCodeDirectory: '.'
+
+tuner:
+  name: TPE
+  classArgs:
+    optimize_mode: maximize
+
+trainingService:
+  platform: local
