@@ -1,10 +1,9 @@
-```
 # Kernel Canary++ 🐧  
 **Log-Based Anomaly Detection for System Security and Monitoring**
 
 Kernel Canary++ is a lightweight, real-time anomaly detection system designed to monitor structured system logs and flag suspicious behavior. It leverages an optimized Isolation Forest model, automated hyperparameter tuning, and a deployable REST API to detect rare events that may indicate system faults, intrusions, or unusual activity.
 
-> ⚡ Built with production-readiness in mind — optimized, interpretable, and ready to scale.
+> 🧠 Inspired by Microsoft’s SR-CNN research on log-based anomaly detection.
 
 ---
 
@@ -14,8 +13,6 @@ Modern operating systems generate massive logs, making manual inspection infeasi
 - Converting structured logs into frequency-based vector representations
 - Detecting anomalous patterns in event distributions
 - Providing a real-time scoring interface via a Python REST API
-
-> 🧠 Inspired by Microsoft’s SR-CNN research on log-based anomaly detection.
 
 ---
 
@@ -95,8 +92,7 @@ Actual:Norm  |   16    | 1975
 **Mudit Mayank Jha**  
 B.Sc. Computer Science @ UWI | Exchange @ University of Richmond  
 Passionate about applied machine learning, system-level tools, and security.  
-[GitHub](https://github.com/muditjha20) · [LinkedIn](https://linkedin.com/in/mudit-mayank-jha)
-
+[GitHub](https://github.com/muditjha20)
 ---
 
 > Built to explore the intersection of system security, unsupervised ML, and real-time monitoring.  
